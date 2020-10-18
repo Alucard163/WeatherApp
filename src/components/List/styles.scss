@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+
+  li:hover {
+    background-color: #F5F5F5;
+  }
+
+  li {
+    font-size: 18px;
+    color: #000;
+    letter-spacing: 1.6px;
+    padding: 20px;
+  }
+}
